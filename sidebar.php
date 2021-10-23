@@ -18,19 +18,19 @@
           <button class="btn btn-outline-success" type="submit">Search</button>
         </form>
           <li class="nav-item">
-            <a class="bx bx-home mt-5 mb-5 fs-5 text-light" aria-current="page" href="#" style="text-decoration: none;">   Home</a>
+            <a class="bx bx-home mt-3 fs-5 text-light" aria-current="page" href="#" style="text-decoration: none;">   Home</a>
           </li>
           <li class="nav-item">
-            <a class="bx bx-dollar mt-2 mb-5 fs-5 text-light" href="#" style="text-decoration: none;">   Saldo</a>
+            <a class="bx bx-dollar mt-2 fs-5 text-light" href="#" style="text-decoration: none;">   Saldo</a>
           </li>
            <li class="nav-item">
-            <a class="bx bx-bar-chart-alt 2 mt-2 mb-5 fs-5 text-light" href="#" style="text-decoration: none;">   Riwayat</a>
+            <a class="bx bx-bar-chart-alt 2 mt-2 fs-5 text-light" href="#" style="text-decoration: none;">   Riwayat</a>
           </li>
           <li class="nav-item">
-            <a class="bx bx-user mt-2 mb-5 fs-5 text-light" href="#" style="text-decoration: none;">   Akun</a>
+            <a class="bx bx-user mt-2 fs-5 text-light" href="#" style="text-decoration: none;">   Akun</a>
           </li>
           <li class="nav-item">
-            <a class="bx bx-cog mt-2 mb-5 fs-5 text-light" href="#" style="text-decoration: none;">  Setting</a>
+            <a class="bx bx-cog mt-2 fs-5 text-light" href="#" style="text-decoration: none;">  Setting</a>
           </li>
         </ul>
       </div>
